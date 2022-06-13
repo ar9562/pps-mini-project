@@ -10,5 +10,5 @@ This is a program that helps the user to display their attendance.
 
 ## Done by
 
-- Mohd Zaid (RA2111003010039)
+- Aditya Raj Singh (RA2111003010015)
 - B. Tech CSE (Core) - A1 Section
